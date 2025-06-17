@@ -16,7 +16,7 @@ A RAG application that allows you to ask questions from a PDF file using Generat
 
 🚀 **Getting Started**  
 1. Clone the Repository  
-git clone https://github.com/yourusername/pdf-chatbot.git  
+git clone https://github.com/sagarcloud17/Expleogroup-Assignment.git 
 cd Expleogroup-Assignment  
 
 2. Create and Activate Virtual Environment  
