@@ -10,7 +10,7 @@ A RAG application that allows you to ask questions from a PDF file using Generat
 
 🗂️ **Folder Structure**  
 ├── app.py                # Main Streamlit app  
-├── .env                  # API keys file (not committed)  
+├── .env                  # API keys file
 ├── TheHundred-pageMachineLearning.pdf  # PDF source  
 └── README.md             # Project documentation  
 
@@ -31,5 +31,7 @@ OPENAI_API_KEY=your_openai_api_key
 LANGCHAIN_API_KEY=your_langchain_api_key  
 
 5. Run the App  
-streamlit run app.py  
+streamlit run app.py
+
+**Note: Allow sometime to load the pdf as it is contains 150 pages**
 
