@@ -1,4 +1,4 @@
-📄 **PDF Question Answering Chatbot**  
+#📄 **PDF Question Answering Chatbot**  
 A RAG application that allows you to ask questions from a PDF file using Generative AI. The app leverages LangChain, OpenAI's LLMs, and FAISS vector store for semantic search and contextual responses.  
 
 🧠 **Features**  
