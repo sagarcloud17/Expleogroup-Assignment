@@ -10,7 +10,7 @@ A RAG application that allows you to ask questions from a PDF file using Generat
 
 🗂️ **Folder Structure**  
 ├── app.py                # Main Streamlit app  
-├── .env                  # API keys file
+├── .env                  # API keys file  
 ├── TheHundred-pageMachineLearning.pdf  # PDF source  
 └── README.md             # Project documentation  
 
